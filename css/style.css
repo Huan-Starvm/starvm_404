@@ -329,7 +329,7 @@ background:transparent;
 @media (max-width:600px) {
   .w3l-error-61-404 .error-61-mian {
     /*background: url(https://api.klpbbs.com/api/img/acg-phone/) no-repeat right;*/
-    background: url(https://data.klpbbs.com/file/tc/img/2023/05/05/645452a4b565e.jpg) no-repeat right;
+    background: url(../img/645452a4b565e.jpg) no-repeat right;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
